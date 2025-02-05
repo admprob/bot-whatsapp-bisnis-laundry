@@ -19,4 +19,4 @@ npm install
 3. jalankan bot
 ```
 npm run dev
-```
+```# botwa
