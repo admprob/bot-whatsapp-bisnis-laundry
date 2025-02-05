@@ -1,6 +1,10 @@
 {
-    "intro": "Selamat datang",
-    "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
-    "menu.daftarProduk": "🧰 Daftar Produk",
-    "menu.alamatKantor": "Alamat Kantor"
+    "intro": "Selamat datang di monitoring Cluster Probolinggo",
+    "template.menu": "Ketik *{{number}}* : untuk *{{menu}}*",
+    "menu.daftarProduk": "Daftar Produk",
+    "menu.alamatKantor": "Alamat Kantor",
+    "menu.omzet" : "omset cluster",
+    "menu.all": "all menu",
+    "headeraplikasi": "suport by tomy akardaya",
+    "footer": "*suport by admin digipost probolinggo akardaya*"
 }
